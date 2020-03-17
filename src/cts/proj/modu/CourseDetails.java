@@ -15,6 +15,16 @@ public class CourseDetails {
 
 	}
 
+	private void javaCourse2() {
+		System.out.println("Java");
+
+	}
+
+	private void javaCourse3() {
+		System.out.println("Java");
+
+	}
+
 	// Main Method
 	public static void main(String[] args) {
 		// Object >> Run Time Memory Allocation (RAM - Heap Memory)
@@ -25,6 +35,8 @@ public class CourseDetails {
 
 		object.seleniumCourse();
 		object.javaCourse();
+		
+		System.out.println("NEw Code");
 
 	}
 
