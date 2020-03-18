@@ -35,7 +35,17 @@ public class CourseDetails {
 
 		object.seleniumCourse();
 		object.javaCourse();
-		
+
+		System.out.println("NEw Code");
+
+		System.out.println("NEw Code");
+		System.out.println("NEw Code");
+		System.out.println("NEw Code");
+		System.out.println("NEw Code");
+
+		System.out.println("NEw Code");
+		System.out.println("NEw Code");
+		System.out.println("NEw Code");
 		System.out.println("NEw Code");
 
 	}
